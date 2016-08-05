@@ -5,7 +5,8 @@ Deep Learning Algorithms Based Text Classifiers.
 Paper discusses the use of Different deep learning algorithms (Gated Recursive Unit and
 Long Short Term Memory) for solving the classification problem. Experiments were conducted 
 for different parameters and layers for these algorithms. Paper brings out the
-architectures tried, results obtained, our conclusions and way forward.
+architectures tried, results obtained, our conclusions and way forward. Paper published 
+as part of the International Conference on Applied and Theoretical Computing and Communication Technology, Bangalore, 2016
 
 
 Augmenting a Classifier Ensemble with Automatically generated class level patterns for Higher Accuracy.
@@ -40,6 +41,8 @@ Links to Conferences spoken at ( Available for viewing online)
 •	Spoke at Pycon 2015 - (https://in.pycon.org/2015/ )
 
 •	Spoke at the Artificial Intelligence IEEE conference held at Taiwan
+
+•	Spoke at the International Conference on Applied and Theoretical Computing and Communication Technology, Bangalore, 2016
 
 •	Spoke at Fifth Elephant 2013 https://fifthelephant.talkfunnel.com/2013/644-similar-entity-detection-in-large-data
 
