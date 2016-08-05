@@ -25,17 +25,21 @@ This paper discusses the technique for building a large scale production ready c
 
 Links to the papers online
 •	 Paper  published in IEEE on Deep Learning algorithms based text classifiers  ( To be updated on IEEE) 
+
 •	 https://www.researchgate.net/publication/289366075_BUILDING_ACCURATE_TEXT_CLASSIFIERS
+
 •	.http://www.academia.edu/13578690/Machine_Learning_Techniques_for_Building_a_Large_Scale_Production_Ready_Classifier
+
 •	 http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7407105&newsearch=true&queryText=Augmented%20Classifier
 
 
 Links to Conferences spoken at ( Available for viewing online)
+
 •	Spoke at Grace Hopper 2015 - https://www.youtube.com/channel/UCGuAMvPJ0l9xscCfoxUpEDA
+
 •	Spoke at Pycon 2015 - (https://in.pycon.org/2015/ )
+
 •	Spoke at the Artificial Intelligence IEEE conference held at Taiwan
+
 •	Spoke at Fifth Elephant 2013 https://fifthelephant.talkfunnel.com/2013/644-similar-entity-detection-in-large-data
-•	http://www.qsitglobal.com/spmicon2008/conf_pgm/Arthi_Venkataraman.html
-•	http://isqtinternational.com/defect/images/Arthi.pdf
-•	http://www.wipro.com/documents/resource-center/library/journery_towards_zero_defects.pdf
 
