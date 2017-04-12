@@ -40,6 +40,7 @@ Links to the papers online
 
 
 Links to Conferences spoken at ( Available for viewing online)
+• Spoke at the  9th International Conference on Machine Learning and Computing Proceedings at Singapore, February, 2017
 
 •	Spoke at Grace Hopper 2015 - https://www.youtube.com/channel/UCGuAMvPJ0l9xscCfoxUpEDA
 
