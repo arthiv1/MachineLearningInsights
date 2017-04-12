@@ -1,6 +1,11 @@
 # MachineLearningInsights
 Lists the different papers I have published on machine learning and deep learning.  It will contain my presentations on deep learning, machine learning, natural language processing and semantics.  It will contain links to other good links , code and repositories in this space.  These papers are listed from latest to older papers.
 
+Intent Understanding in a Virtual agent
+Published by ACM
+Presented at 2017 the 9th International Conference on Machine Learning and Computing Proceedings at Singapore.
+This paper discusses the intent recognition system we have built. This system is to be used as part of a virtual agent that can help resolve end user queries. The end user queries are of different intents – Request for action, Request for information, Report of some issue, General greetings. Intent detection is a key component of the virtual agent o decide which type the query belongs to and to further invoke the appropriate action modules. The system uses a combination of machine learning and rules based techniques. The rules based component can be used in an unsupervised mode with only the dictionary databases to be loaded upfront. Classifier is a supervised block which requires training data. The system has a feedback based learning which enables the system’s performance to improve with use.  This paper brings out the architecture of the intent recognition system, alternate configurations, results obtained and conclusions. The key differentiator of this system is the ability to use this system for different domains with minimal supervision
+
 Deep Learning Algorithms Based Text Classifiers.
 Paper discusses the use of Different deep learning algorithms (Gated Recursive Unit and
 Long Short Term Memory) for solving the classification problem. Experiments were conducted 
